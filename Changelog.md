@@ -7,3 +7,4 @@
 ## ADDED
 - Ground
 - Player (Cube)
+- AddForce to the cube
