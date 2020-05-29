@@ -5,3 +5,5 @@
 ## CHANGED
 
 ## ADDED
+- Ground
+- Player (Cube)
