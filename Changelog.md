@@ -13,3 +13,5 @@
 - Fog
 - Score based on distance
 - Game Over - Restart functionality
+- Win the current level
+- Level02
